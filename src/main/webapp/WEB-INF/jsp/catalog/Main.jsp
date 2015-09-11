@@ -28,7 +28,7 @@
 
                                 <img src="../images/mascotas_main.jpg" class="main_image" style="width:100%"></img>
 
-                                <div class="captionimg"><h2>Adopta a un nuevo amigo</h2>Semana Nacional de la adopcion<h3>ver tiendas ></h3></div>
+                                <div class="captionimg"><h2>Adopta a una nueva mascota</h2>Semana Nacional de la adopcion<h3>ver tiendas ></h3></div>
 
                 </div>
 
