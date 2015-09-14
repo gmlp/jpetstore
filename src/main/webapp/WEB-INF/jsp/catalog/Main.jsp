@@ -28,11 +28,8 @@
 
                                 <img src="../images/mascotas_main.jpg" class="main_image" style="width:100%"></img>
 
-<<<<<<< HEAD
-                                <div class="captionimg"><h2>Adopta un nuevo amigo</h2>Semana Nacional de la adopcion<h3>ver tiendas ></h3></div>
-=======
+
                                 <div class="captionimg"><h2>Adquiere a una nueva mascota</h2>Semana Nacional de la adopcion<h3>ver tiendas ></h3></div>
->>>>>>> 9c0a8793b19b62339f4037932417dcd5e3b213f7
 
                 </div>
 
